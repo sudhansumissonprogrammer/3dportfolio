@@ -3,14 +3,14 @@
 A modern 3D developer portfolio built using **React + Three.js + TailwindCSS**.
 
 ## 🚀 Features
-- Fully responsive 3D section
+- Fully responsive 3D sections
 - Smooth animations
 - Contact form integration
 - Deployed on GitHub Pages
 
 ## 🧰 Technologies Used
 - React.js
-- Three.js'
+- Three.js
 - TailwindCSS
 - Vite
 
