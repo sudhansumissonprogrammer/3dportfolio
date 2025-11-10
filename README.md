@@ -1,6 +1,6 @@
 # 🎨 Sudhansu's 3D Portfolio
 
-A modern 3D developer portfolio built using **React + Three.js + TailwindCSS**.
+A modern 3D developer portfolio built using **React + Three.js + TailwindCSS**
 
 ## 🚀 Features
 - Fully responsive 3D sections
