@@ -14,7 +14,7 @@ A modern 3D developer portfolio built using **React + Three.js + TailwindCSS**.
 - TailwindCSS
 - Vite
 
-## 📦 Setup Instructions
+## 📦 Setup Instruction
 ```bash
 git clone https://github.com/sudhansumissonprogrammer/3dportfolio.git
 cd 3dportfolio
